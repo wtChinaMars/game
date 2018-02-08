@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "32f769fb-a952-471f-9e2a-59286ff7859e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "img_GameAction_DouDiZhu_Spring_Flower2": {
+      "ver": "1.0.3",
+      "uuid": "bf751ca6-1781-4d6f-a0a6-89f7cfa8ceb9",
+      "rawTextureUuid": "32f769fb-a952-471f-9e2a-59286ff7859e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 64,
+      "height": 73,
+      "rawWidth": 64,
+      "rawHeight": 76,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

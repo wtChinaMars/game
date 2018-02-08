@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jingbao",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "25b6a3bb-83a2-4597-9e4d-0f8a56fee157"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "8e2d647e-8af7-4d3b-9e15-f2b604ea595d"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "124e6fcc-3110-456c-adf3-d376d686f835"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "0246e8c6-daed-47bc-b3f3-fb38b49ad171"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "9a01ae00-cf99-45eb-bf0f-c5101c0a8914"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

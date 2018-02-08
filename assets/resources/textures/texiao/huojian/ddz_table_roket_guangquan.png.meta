@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c1ebf720-8506-4e36-bedd-e1ae9abb6e9f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "ddz_table_roket_guangquan": {
+      "ver": "1.0.3",
+      "uuid": "77f5564e-57ee-4a9b-9454-42199b65950e",
+      "rawTextureUuid": "c1ebf720-8506-4e36-bedd-e1ae9abb6e9f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 1,
+      "trimX": 1,
+      "trimY": 2,
+      "width": 200,
+      "height": 80,
+      "rawWidth": 206,
+      "rawHeight": 86,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
